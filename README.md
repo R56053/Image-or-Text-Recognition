@@ -269,7 +269,6 @@ Important Notes
 •	The MobileNet-SSD model files must be available in the models folder.
 •	Tesseract OCR must be installed separately on Windows.
 •	If the Tesseract installation path is different, update the path in the OCR module.
-
-![image]()
 •	The project requires Python and the required packages listed in requirements.txt.
 
+![image]()
