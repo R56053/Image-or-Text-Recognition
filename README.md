@@ -271,4 +271,4 @@ Important Notes
 •	If the Tesseract installation path is different, update the path in the OCR module.
 •	The project requires Python and the required packages listed in requirements.txt.
 
-![image]()
+![image](https://github.com/R56053/Image-or-Text-Recognition/blob/b3b470bdb27aed74b827e28b21e80eff5946836e/Image%20Analyzer.png)
